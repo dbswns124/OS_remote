@@ -7,6 +7,6 @@ class Fourcal:
         self.first = first
         self.second = second
 
-    def add(self):
+    def addition(self):
         result = self.first + self.second
         return result
