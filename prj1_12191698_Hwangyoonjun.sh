@@ -2,7 +2,7 @@
 
 echo "
 -------------------------------------------------------------------------
-User name : hwang
+User name : Hwang yoon jun
 student Nymber : 12191698
 1. Get the data of the movie identified by a specific
 'movie id' from 'u.item'
