@@ -1,6 +1,7 @@
 #! /bin/bash
 
 echo "
+-------------------------------------------------------------------------
 User name : hwang
 student Nymber : 12191698
 1. Get the data of the movie identified by a specific
@@ -28,7 +29,7 @@ do
 	read -p "Enter your choice [ 1- - 9 ] : " ans
 	if [ "$ans" = "9" ]
 		then 
-			echo "program termination.."
+			echo "Bye...."
 			break;
 fi
 
